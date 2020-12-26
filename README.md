@@ -18,3 +18,21 @@ https://youtu.be/avOGrIDkbF8
 BF-011A_DOC.pdf
 
 https://github.com/botanicfields/BF-011A/blob/master/BF-011A_DOC.pdf
+
+# 音源
+
+[WAV フォルダ](https://github.com/botanicfields/BF-011A/tree/master/wav) にサンプルを置きました。
+
+「BGM・ジングル・効果音のフリー素材 OtoLogic (オトロジック) 」のデータを使用しています。
+
+https://otologic.jp/
+
+DFPlayer Mini は、停止状態から再生すると、音の出だしがフェードインになってしまいます。
+先頭に無音部分を付加しても改善効果がありません。
+MP3 形式を WAV 形式にすることで少し改善しますが、不十分です。
+先頭に 10ms 以下のごく小さい音を追加することで、改善を図っています。
+停止状態からの再生では、フェードインを逆手に取ることができます。
+再生中にボタンを押して次の効果音を再生した場合にも、気にならない程度になっています。
+
+プリント基板 V02L01 に添付した microSD には、OtoLogic オリジナルの MP3 ファイルを入れています。
+上記 WAV フォルダのファイルと差し替えていただくことができます。
