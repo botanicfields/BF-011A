@@ -36,3 +36,27 @@ WAV に変換した上で先頭に 10ms 以下のごく小さい音を追加し�
 
 プリント基板 V02L01 に添付した microSD には、OtoLogic オリジナルの MP3 ファイルを入れています。
 上記 WAV フォルダのファイルと差し替えていただくことができます。
+
+
+# 参考資料
+
+DFPlaerMini(DFR0299) モジュール
+
+DFRobot DFR-0299:
+
+https://www.dfrobot.com/product-1121.html
+
+https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+
+https://github.com/DFRobot/DFRobotDFPlayerMini
+
+Flyrontech FN-M16P:
+
+http://www.flyrontech.com/eproducts/84.html
+
+http://www.flyrontech.com/uploadfile/download/20184121510393726.pdf
+
+https://docs.google.com/document/d/1sbZnzhrAAXFYlKePREef-rD63molaLCEJMT4LRoT2So/edit
+
+https://github.com/rwpalmer/DFPlay
+
