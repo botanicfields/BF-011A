@@ -1,8 +1,6 @@
 # BF-011A
 sound effect player by DFPlayer Mini an MP3 module
 
-https://youtu.be/n-CQxfKWx2o
-
 電子工作玩具
 効果音再生機「ポン出し」
 
