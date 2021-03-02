@@ -13,6 +13,23 @@ https://youtu.be/n-CQxfKWx2o
 - パワーアンプを内蔵し、スピーカー2台を接続してステレオ再生ができます
 - 音量調節は、押ボタンとボリュームダイヤルの2段構えです
 
+動作例
+
+<https://youtu.be/n-CQxfKWx2o>
+
+組み立て例
+
+<img src="./V02L02/bf-011A_assembled.JPEG" width=300>
+
+キット内容
+
+<img src="./V02L02/bf-011A_contents.PNG" width=300>
+
+基板
+
+<img src="./V02L02/bf-011A_PCBfront.JPEG" width=300>
+<img src="./V02L02/bf-011A_PCBback.JPEG" width=300>
+
 説明書:
 
 BF-011A_DOC.pdf
