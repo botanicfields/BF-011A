@@ -17,16 +17,16 @@ sound effect player by DFPlayer Mini an MP3 module
 
 組み立て例
 
-<img src="./V02L02/bf-011A_assembled.JPEG" width=300>
+<img src="https://github.com/botanicfields/BF-011A/blob/master/V02L02/BF-011A_assembled.JPEG" width=300>
 
 キット内容
 
-<img src="./V02L02/bf-011A_contents.PNG" width=300>
+<img src="https://github.com/botanicfields/BF-011A/blob/master/V02L02/BF-011A_contents.png" width=300>
 
 基板
 
-<img src="./V02L02/bf-011A_PCBfront.JPEG" width=300>
-<img src="./V02L02/bf-011A_PCBback.JPEG" width=300>
+<img src="https://github.com/botanicfields/BF-011A/blob/master/V02L02/BF-011A_PCBfront.JPEG" width=300>
+<img src="https://github.com/botanicfields/BF-011A/blob/master/V02L02/BF-011A_PCBback.JPEG" width=300>
 
 説明書:
 
